@@ -10,12 +10,14 @@
     <h2>{{ song.name }}</h2>
     <br>
 
-    <div *ngIf="song?.strophen && song?.refrains">
+    <div id="song-text" *ngIf="song?.strophen && song?.refrains">
       <div *ngFor="let item of song.strophen">
         <p style="white-space: pre-wrap;">{{ item.text }}</p>
         <br>
-        <p style="white-space: pre-wrap;" *ngIf="item.refrain ">{{ song.refrains[item.refrain] }}<br></p>
-        
+        <ng-container *ngIf="item.refrain">
+          <p style="white-space: pre-wrap;">{{ song.refrains[item.refrain] }}</p>
+          <br>
+        </ng-container>
       </div>
     </div>
 

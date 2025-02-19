@@ -25,3 +25,59 @@
 #container a {
   text-decoration: none;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+ion-toolbar {
+  --background: #f0f0f0; // Hintergrundfarbe der Toolbar (hellgrau)
+  color: #333; // Textfarbe in der Toolbar (dunkelgrau)
+  padding: 0 16px; // Padding links und rechts in der Toolbar
+
+  .toolbar-content { // Für Ionic 6 und höher
+    display: flex;
+    align-items: center;
+  }
+  
+  ion-title {
+    font-weight: 500; // Weniger fett
+    font-size: 1.2em; // Größerer Titel
+    margin-left: 16px; // Abstand zum Zurück-Button
+  }
+
+  button {
+    margin-right: 16px; // Abstand zum Titel
+    --padding-start: 0; // Padding im Button entfernen
+    --padding-end: 0; // Padding im Button entfernen
+  }
+}
+
+ion-content {
+  --padding-top: 16px; // Padding oben im Content
+  --padding-bottom: 16px; // Padding unten im Content
+
+  ion-label {
+    padding: 0 16px; // Padding links und rechts im Content
+    display: block; // Damit der Titel nicht mit dem Text kollidiert
+  }
+
+  h2 {
+    font-size: 1.5em; // Größerer Titel im Content
+    font-weight: bold;
+    margin-bottom: 8px; // Abstand zum Liedtext
+  }
+
+  #song-text {
+    p {
+      margin-bottom: 8px; // Abstand zwischen den Absätzen
+    }
+  }
+}

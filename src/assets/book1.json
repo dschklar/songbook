@@ -9,16 +9,13 @@
     },
     "strophen": [
       { 
-          "text": "1) Anbetung bringen wir Dir, Jesus, Gotteslamm.\nWir stehen staunend hier, sehen, was Du getan.\nNichts ist für Dich zu schwer, nichts Dich bezwingen kann!\nDu bist der einz’ge Herr, Jesus, wir beten an.", 
-          "refrain": "ref1" 
+          "text": "1) Anbetung bringen wir Dir, Jesus, Gotteslamm.\nWir stehen staunend hier, sehen, was Du getan.\nNichts ist für Dich zu schwer, nichts Dich bezwingen kann!\nDu bist der einz’ge Herr, Jesus, wir beten an." 
       },
       { 
-          "text": "2) Christus, auf Golgatha hast Du den Feind besiegt.\nDeine erlöste Schar anbetend vor Dir liegt.\nAus dunkler Leidensnacht stiegst Du zum Licht empor,\ndann brach mit aller Macht, Jesus, Dein Sieg hervor!", 
-          "refrain": "ref1" 
+          "text": "2) Christus, auf Golgatha hast Du den Feind besiegt.\nDeine erlöste Schar anbetend vor Dir liegt.\nAus dunkler Leidensnacht stiegst Du zum Licht empor,\ndann brach mit aller Macht, Jesus, Dein Sieg hervor!"
       },
       { 
-          "text": "3) Herr, Deine Botschaft heut neu unser Herz beglückt: \n\"Jesus, der Herr der Herrn, bald Seine Braut entrückt!“\nFroh warten wir auf Dich und machen uns bereit,\nbald werden wir Dich sehn, Jesus, in Herrlichkeit", 
-          "refrain": "ref2" 
+          "text": "3) Herr, Deine Botschaft heut neu unser Herz beglückt: \n\"Jesus, der Herr der Herrn, bald Seine Braut entrückt!“\nFroh warten wir auf Dich und machen uns bereit,\nbald werden wir Dich sehn, Jesus, in Herrlichkeit"
       }
       
     ]
@@ -29,7 +26,7 @@
       "nummer": 2,
       "name": "Glücklichsein heißt",
       "refrains": {
-        "ref1": "Refrain 1 Text...",
+        "ref1": "Ref.: Refrain 1 Text...",
         "ref2": "Refrain 2 Text..."
       },
       "strophen": [
@@ -53,8 +50,8 @@
       "nummer": 3,
       "name": "Ich hab einen herrlichen König",
       "refrains": {
-        "ref1": "Jesus, mein Stolz, meine tiefe Ruh,\nJesus, dir jauchze ich selig zu!\nIch hab einen herrlichen König,\no Jesus, Jesus, nur du!",
-        "ref2": " "
+        "ref1": "Ref.: Jesus, mein Stolz, meine tiefe Ruh,\nJesus, dir jauchze ich selig zu!\nIch hab einen herrlichen König,\no Jesus, Jesus, nur du!",
+        "ref2": ""
       },
       "strophen": [
         { 
@@ -81,7 +78,7 @@
       "nummer": 4,
       "name": "Er kann alles, er kann alles",
       "refrains": {
-        "ref1": "Refrain 1 Text...",
+        "ref1": "Ref.: Refrain 1 Text...",
         "ref2": "Refrain 2 Text..."
       },
       "strophen": [
@@ -105,8 +102,8 @@
       "nummer": 5,
       "name": "Du großer Gott, wenn ich die Welt betrachte",
       "refrains": {
-        "ref1": "dann jauchzt mein Herz Dir, großer Herrscher, zu:\nWie groß bist Du! Wie groß bist Du!\nDann jauchzt mein Herz Dir, großer Herrscher, zu:\nWie groß bist Du! Wie groß bist Du!",
-        "ref2": " "
+        "ref1": "Ref.: dann jauchzt mein Herz Dir, großer Herrscher, zu:\nWie groß bist Du! Wie groß bist Du!\nDann jauchzt mein Herz Dir, großer Herrscher, zu:\nWie groß bist Du! Wie groß bist Du!",
+        "ref2": ""
       },
       "strophen": [
         { 
@@ -142,7 +139,7 @@
       "nummer": 6,
       "name": "Wenn ich die Werke Deiner Hände sehe",
       "refrains": {
-        "ref1": "Refrain 1 Text...",
+        "ref1": "Ref.: Refrain 1 Text...",
         "ref2": "Refrain 2 Text..."
       },
       "strophen": [
@@ -166,7 +163,7 @@
       "nummer": 7,
       "name": "Wie wunderbar regierst du mein Leben",
       "refrains": {
-        "ref1": "Refrain 1 Text...",
+        "ref1": "Ref.: Refrain 1 Text...",
         "ref2": "Refrain 2 Text..."
       },
       "strophen": [
@@ -190,8 +187,8 @@
       "nummer": 8,
       "name": "Wie ein Strom von oben",
       "refrains": {
-        "ref1": " ",
-        "ref2": " "
+        "ref1": "",
+        "ref2": ""
       },
       "strophen": [
         { 
@@ -214,8 +211,8 @@
       "nummer": 9,
       "name": "Lobe den Herrn, meine Seele, und seinen heiligen Namen",
       "refrains": {
-        "ref1": " ",
-        "ref2": " "
+        "ref1": "",
+        "ref2": ""
       },
       "strophen": [
         { 
@@ -238,8 +235,8 @@
       "nummer": 10,
       "name": "Jesus, höchster Name",
       "refrains": {
-        "ref1": " ",
-        "ref2": " "
+        "ref1": "",
+        "ref2": ""
       },
       "strophen": [
         { 
